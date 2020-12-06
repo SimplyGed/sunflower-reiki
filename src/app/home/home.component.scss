@@ -1,0 +1,53 @@
+
+.text {
+    margin: 100px;
+    text-align: center;
+}
+
+.fixed-bg {
+    margin: 0 -10px;
+    opacity: .75;
+}
+
+.fixed-bg-1 {
+    background-image: url("../../assets/big-flower-left.jpg");
+
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fixed-bg-2 {
+    background-image: url("../../assets/whole-flower-left.jpg");
+
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fixed-bg-3 {
+    background-image: url("../../assets/faye-and-kayla.jpg");
+
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bottom {
+    height: 500px;
+}
+
+.footer {
+    margin: 50px 0;
+}
+
+.footer .text {
+    font-size: 16px;
+    margin: 0;
+}

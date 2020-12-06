@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+
+/* Importing Bootstrap SCSS file. */
+@import '~bootstrap/scss/bootstrap';
+@import url('https://fonts.googleapis.com/css2?family=Sunflower:wght@500&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Sunflower';
+    font-size: 24px;
+}
+
+.text {
+    margin: 100px;
+    text-align: center;
+}
