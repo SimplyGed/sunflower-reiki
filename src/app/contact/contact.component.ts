@@ -6,6 +6,4 @@ import { Component } from '@angular/core';
   styleUrls: ['./contact.component.scss']
 })
 export class ContactComponent {
-  center: google.maps.LatLngLiteral = {lat: 24, lng: 12};
-  zoom = 4;
 }
